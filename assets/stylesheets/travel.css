@@ -79,6 +79,9 @@ and use @import to include in this style sheet. The font in the image is "Banger
   justify-content: flex-end;
 }
 
+.card h3 {
+  padding-bottom: 1em;
+}
 /*
 - Make the travel table div a flexbox container
 - using flexbox make sure the content is stacked and not in a row
